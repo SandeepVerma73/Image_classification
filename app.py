@@ -15,7 +15,8 @@ st.set_page_config(
 # -------------------------
 # Load Model
 # -------------------------
-model = joblib.load("cat_dog_model.pkl")
+model = joblib.load("Image_classification
+/.pkl")
 
 IMG_SIZE = 64
 
